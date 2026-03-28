@@ -1,0 +1,1 @@
+{"status": "success", "model_id": "gpt2", "prompt": "What is the future of decentralized AI?", "response": "This post will be a continuation of my last one, \"How to Build and Use Autonomous Systems on Blockchain\". I hope you enjoy it!", "device": "gpu", "inference_time_seconds": 9.97, "max_new_tokens": 50, "temperature": 0.7, "top_p": 0.9, "timestamp": "2026-03-28T18:49:02Z"}
