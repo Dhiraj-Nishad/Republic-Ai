@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "A. It's not clear yet but I don't think it will be as fast or secure, so this question can get stuck in our heads for a while until we come up with something better than what was promised and implemented before \u2013 which could",
+  "device": "gpu",
+  "inference_time_seconds": 11.34,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T17:20:40Z"
+}

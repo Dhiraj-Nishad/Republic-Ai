@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "I believe that there are two major ways to achieve this. First, it can be used by anyone and everyone in a distributed world (and not just one person or group). This means you need an organization which has no control over anything but itself",
+  "device": "gpu",
+  "inference_time_seconds": 36.39,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T17:22:40Z"
+}

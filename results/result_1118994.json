@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "It's pretty simple. What we have here are two main things that I'm trying to talk about: (1) How do you want all your data in a distributed, self-contained database and how can this be used for different purposes such",
+  "device": "gpu",
+  "inference_time_seconds": 424.44,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T17:30:10Z"
+}

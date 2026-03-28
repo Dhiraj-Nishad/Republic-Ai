@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "We are looking at what it might take to get there. The next step will be moving towards a new generation, one that can make use and improve upon existing systems while maintaining its current state without needing an external infrastructure or other kind (eg hardware",
+  "device": "gpu",
+  "inference_time_seconds": 580.61,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T17:33:51Z"
+}

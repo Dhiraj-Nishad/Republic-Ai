@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "I'm not sure how to answer this question, but I want to give you a few hints:\n\n - The blockchain-based technology that's now being used in many industries will eventually be replaced by something similar. A common use case for such",
+  "device": "gpu",
+  "inference_time_seconds": 483.33,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T17:31:20Z"
+}

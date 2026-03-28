@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "What's next for Bitcoin and other digital currencies?\n\nIn this post we will be discussing how to build a blockchain that can provide value, decentralize commerce with distributed consensus (delta), make useable by anyone who wants it. We'll",
+  "device": "gpu",
+  "inference_time_seconds": 551.6,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T17:32:59Z"
+}
