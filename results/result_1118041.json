@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "It's a very interesting question. It might be that we will see an explosion in data analytics, and even more innovation coming from organizations like Google or IBM where they are already building big-data applications with large amounts (e1+). The",
+  "device": "gpu",
+  "inference_time_seconds": 9.89,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T17:11:58Z"
+}

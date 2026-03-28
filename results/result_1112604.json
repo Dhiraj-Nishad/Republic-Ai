@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "In my opinion, decentralization and trust are key pillars for a successful blockchain. The idea that you can create your own distributed ledger with no central authority will never be accepted by anyone who wants to use it in their daily life or even if they",
+  "device": "gpu",
+  "inference_time_seconds": 10.8,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:01:41Z"
+}

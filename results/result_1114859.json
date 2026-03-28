@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The goal of this project was to provide a solution that would allow people who want their own personal smart contracts, for example by sending money directly from one wallet into another. The idea behind it has been around since 2009 and I'm sure there are",
+  "device": "gpu",
+  "inference_time_seconds": 10.41,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:29:34Z"
+}

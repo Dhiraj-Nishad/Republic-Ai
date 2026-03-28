@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "One interesting question that I see happening with this technology in China and other countries, as well as those around the world: how do we move from a system where computers can't have to answer for themselves or make decisions on their own. We need",
+  "device": "gpu",
+  "inference_time_seconds": 10.23,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T17:01:37Z"
+}

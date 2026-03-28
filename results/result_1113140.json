@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "We have been looking into this for a while now. We started out with simple and easy-to use, distributed algorithms that were designed to be flexible in how they interact \u2013 but also at what scale or level their utility was going to increase (",
+  "device": "gpu",
+  "inference_time_seconds": 10.17,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:08:10Z"
+}

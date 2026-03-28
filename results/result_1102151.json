@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The world has been moving forward in a major way, and I think we are on an upward trajectory. We have become more transparent about what happens when you give your machine money to buy stuff or something else that doesn't even exist yet \u2014 which",
+  "device": "gpu",
+  "inference_time_seconds": 9.9,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:42:30Z"
+}

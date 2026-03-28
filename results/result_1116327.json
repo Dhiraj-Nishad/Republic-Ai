@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "We are currently working on a solution that will allow one person to create an app in just 20 minutes. We hope this technology can be used for both research and development, as well as medical applications such about cancer treatment or other health problems like diabetes",
+  "device": "gpu",
+  "inference_time_seconds": 9.55,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:48:57Z"
+}

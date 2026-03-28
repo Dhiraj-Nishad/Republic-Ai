@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "In a nutshell, it's about bringing together two very different visions for how we can build an open source software system. The first vision revolves around smart contracts that govern all aspects in real time and use blockchain technology to make transactions more secure by making",
+  "device": "gpu",
+  "inference_time_seconds": 9.53,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T12:40:32Z"
+}

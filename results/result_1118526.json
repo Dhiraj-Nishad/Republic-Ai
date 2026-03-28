@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The development team at CoinDesk has been working on a project called \"P3B\", which aims to create an autonomous machine that can mine and trade digital currencies using just one computer. The goal with this work, according for Cointelegraph",
+  "device": "gpu",
+  "inference_time_seconds": 9.84,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T17:17:11Z"
+}

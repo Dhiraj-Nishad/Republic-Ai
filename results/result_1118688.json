@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The answer to this question may surprise you. While there has been a lot of talk about how blockchain and distributed ledgers will revolutionize financial transactions, it's still not clear what that means for privacy in general. That said, some people are",
+  "device": "gpu",
+  "inference_time_seconds": 10.11,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T17:19:16Z"
+}

@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The main goal of this project has been to bring together an international group that will be responsible for developing a software architecture based on open-source hardware. The following list includes several important people involved in such efforts:\n\n, Andrei Alexandrescu",
+  "device": "gpu",
+  "inference_time_seconds": 9.98,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:52:52Z"
+}

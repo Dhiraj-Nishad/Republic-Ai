@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The first step toward an open source software based on distributed computing will be to develop a platform for enabling self-service autonomous vehicles (AI) that can meet all human needs. The problem, however would not end there; as robots become increasingly complex",
+  "device": "gpu",
+  "inference_time_seconds": 10.53,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:04:03Z"
+}

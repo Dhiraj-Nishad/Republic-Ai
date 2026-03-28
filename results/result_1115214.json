@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "We are working on a project that will let people use distributed ledger technology (DLT) to create autonomous and peer-to--peer applications. The idea behind this research was originally called \"Able Vision\" but it became popular in 2015 when",
+  "device": "gpu",
+  "inference_time_seconds": 10.05,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:34:33Z"
+}

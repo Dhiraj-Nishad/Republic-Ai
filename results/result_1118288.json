@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The current state of machine learning and data mining are two major issues in computing. Machine learning can be used to predict how people will interact with machines, but it has been shown that most human behavior takes place via a computer's ability to read what",
+  "device": "gpu",
+  "inference_time_seconds": 11.25,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T17:15:07Z"
+}

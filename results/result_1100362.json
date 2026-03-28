@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The new technologies and processes that are coming in include: Autonomous vehicles, smart cars, autonomous driving systems; software-based prediction markets like DeepMind's CrowdSale. In addition to these emerging innovations, a number other applications such as data",
+  "device": "gpu",
+  "inference_time_seconds": 10.74,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:18:38Z"
+}

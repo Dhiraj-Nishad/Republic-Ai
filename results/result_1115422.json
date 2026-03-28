@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "It seems that we can't keep track. The past few years have seen a surge in open-source projects, and these are often characterized as \"cyberpunk.\"\nThere was an interesting article from last year entitled: How to Create Decent",
+  "device": "gpu",
+  "inference_time_seconds": 10.63,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:37:18Z"
+}

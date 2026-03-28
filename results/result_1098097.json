@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "There are a number of big problems with this approach. First, it's difficult to imagine what that will look like in practice: people have no control over their own computers; there aren't many smart contracts at all (the underlying protocol uses cryptography",
+  "device": "gpu",
+  "inference_time_seconds": 9.92,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T12:50:00Z"
+}

@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "As a software developer, I am fascinated with how this technology will change things. There are many reasons for that: it's not just hardware and data storage; there is also value in having good control over where you store your money (and what",
+  "device": "gpu",
+  "inference_time_seconds": 10.92,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:39:31Z"
+}

@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The answer to that question will be not so much what we do with it, but how far along. The goal for all autonomous and distributed systems today in general has been \"to create a system which can't just happen because nobody else does anything",
+  "device": "gpu",
+  "inference_time_seconds": 9.85,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:05:48Z"
+}

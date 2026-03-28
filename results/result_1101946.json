@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "We are very excited about it. We believe that this technology will be an important part in advancing our mission to revolutionize how we manage and communicate, with a focus on information security (including secure communication). However, for now, there is no",
+  "device": "gpu",
+  "inference_time_seconds": 9.86,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:39:53Z"
+}

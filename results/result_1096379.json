@@ -1,0 +1,29 @@
+{'top_p', 'temperature', 'max_new_tokens', 'do_sample', 'repetition_penalty'}) is deprecated and will be removed in future versions. Please pass either a `generation_config` object OR all generation parameters explicitly, but not both.
+Both `max_new_tokens` (=50) and `max_length`(=50) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+       Model loaded successfully!
+
+[4/4] Running inference...
+
+✓ Inference completed in 10.59s
+
+────────────────────────────────────────────────────────────
+RESPONSE:
+────────────────────────────────────────────────────────────
+This past year I was at a conference on machine learning in Barcelona with my colleagues and we discussed how to create an open source software framework for artificial intelligence. We found that most people would have already heard about it but there are still some who don
+────────────────────────────────────────────────────────────
+
+============================================================
+FINAL RESULT (JSON):
+============================================================
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "This past year I was at a conference on machine learning in Barcelona with my colleagues and we discussed how to create an open source software framework for artificial intelligence. We found that most people would have already heard about it but there are still some who don",
+  "device": "gpu",
+  "inference_time_seconds": 10.59,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T12:28:14Z"
+}

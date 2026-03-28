@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "There are two possibilities. One, if we can develop a completely self-contained system that allows everyone to freely use their own computing power and knowledge without interference from any central authority (e3c4f6) or other groups such as governments",
+  "device": "gpu",
+  "inference_time_seconds": 10.34,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T17:19:28Z"
+}

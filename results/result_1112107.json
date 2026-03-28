@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "A. As we are getting closer to that, there will be a lot of interest in how blockchain and its applications might impact our lives \u2013 not just for us but those around us as well. We have some very good ideas about what can happen",
+  "device": "gpu",
+  "inference_time_seconds": 9.7,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T15:55:28Z"
+}

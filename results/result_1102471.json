@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The answer to this question depends on how you define \"future.\" The next chapter in our series will explore what a distributed ledger (DASH) can do for your business, and where it's headed. A DRA provides an easy way to",
+  "device": "gpu",
+  "inference_time_seconds": 9.89,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:46:46Z"
+}

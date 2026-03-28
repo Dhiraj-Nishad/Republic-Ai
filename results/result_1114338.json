@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The first step to solving this problem was getting a reliable, scalable and open source version. The more we learned about blockchain technology, the better it became for us as well as our clients' companies who have invested in these projects so far. We",
+  "device": "gpu",
+  "inference_time_seconds": 9.84,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:22:33Z"
+}

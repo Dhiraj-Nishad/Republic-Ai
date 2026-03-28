@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The recent rise of bitcoin, which has seen many companies offering up their services to blockchain-based solutions such as Bitcoin.com and MaidSafe (a community that provides free training for developers) will lead to a shift in how we think about cloud",
+  "device": "gpu",
+  "inference_time_seconds": 9.9,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:13:39Z"
+}

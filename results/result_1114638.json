@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The Future: We are going to be using a combination of distributed and consensus based systems. It's not about creating new problems, it's just trying to solve them so we can have some sort or other that solves all those issues in our life",
+  "device": "gpu",
+  "inference_time_seconds": 9.78,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:26:29Z"
+}

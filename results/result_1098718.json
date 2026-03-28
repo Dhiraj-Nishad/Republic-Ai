@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The following blog post, unless otherwise noted, was written by a member. The author wrote that he or she has no business relationship with any company whose stock goes up in value because of this Blogpost and does not own these assets nor are they",
+  "device": "gpu",
+  "inference_time_seconds": 10.33,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T12:57:54Z"
+}

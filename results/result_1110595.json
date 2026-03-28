@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The goal was to provide a new kind, one that could be used by any business or organization. For example, it would allow for real-time tracking and control over transactions through Bitcoin's smart contracts which are already implemented in more than 20 countries",
+  "device": "gpu",
+  "inference_time_seconds": 10.18,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T15:34:26Z"
+}

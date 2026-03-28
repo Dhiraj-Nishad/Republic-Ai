@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "In recent years, many new technologies have come along that are able to provide more control over our lives and drive better decision making. These include digital currency (BCS), blockchain technology, artificial intelligence (AI) applications like smart cars and virtual reality",
+  "device": "gpu",
+  "inference_time_seconds": 10.59,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T12:55:27Z"
+}

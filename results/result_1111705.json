@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The blockchain will change everything. It's going to be a great tool for startups, businesses and governments that want control over their data in order to stay relevant within an increasingly interconnected world. The goal here isn't just keeping people online but also creating",
+  "device": "gpu",
+  "inference_time_seconds": 9.86,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T15:50:30Z"
+}

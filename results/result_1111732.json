@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The first thing you should know about how to develop an autonomous car (and many other things) in a self-driving vehicle. You have probably already seen that we are doing this by creating software with algorithms and driving it through traffic lights, but",
+  "device": "gpu",
+  "inference_time_seconds": 10.01,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T15:50:53Z"
+}

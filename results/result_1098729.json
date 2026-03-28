@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "I think there are many things that need to happen before we can say it's going to become a reality. If you look at Bitcoin, what they're doing now and why hasn't anybody been able or willing enough to implement them in their ecosystem",
+  "device": "gpu",
+  "inference_time_seconds": 10.52,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T12:58:05Z"
+}

@@ -1,0 +1,29 @@
+{'do_sample', 'repetition_penalty', 'top_p', 'temperature', 'max_new_tokens'}) is deprecated and will be removed in future versions. Please pass either a `generation_config` object OR all generation parameters explicitly, but not both.
+Both `max_new_tokens` (=50) and `max_length`(=50) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+       Model loaded successfully!
+
+[4/4] Running inference...
+
+✓ Inference completed in 10.00s
+
+────────────────────────────────────────────────────────────
+RESPONSE:
+────────────────────────────────────────────────────────────
+It's an interesting question, and I think it has been very fruitful for many people who are interested in how to build a distributed network. So far we have found some good results that show this can be done on both sides (as shown by
+────────────────────────────────────────────────────────────
+
+============================================================
+FINAL RESULT (JSON):
+============================================================
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "It's an interesting question, and I think it has been very fruitful for many people who are interested in how to build a distributed network. So far we have found some good results that show this can be done on both sides (as shown by",
+  "device": "gpu",
+  "inference_time_seconds": 10.0,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T11:47:06Z"
+}

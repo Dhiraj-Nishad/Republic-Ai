@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "What are its strengths and weaknesses? How will it be used in practice?\nIt's not just about algorithms. It's also an important topic for other researchers, as well. As with most open-source projects, many people believe that their code",
+  "device": "gpu",
+  "inference_time_seconds": 10.27,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T17:17:42Z"
+}

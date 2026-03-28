@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "I've seen a lot of hype about Ethereum, but I'm not sure how much it will ever achieve. The big thing in my mind right now isn't to have an \"AI with its own money\" and being able do things that are",
+  "device": "gpu",
+  "inference_time_seconds": 10.51,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T12:56:21Z"
+}

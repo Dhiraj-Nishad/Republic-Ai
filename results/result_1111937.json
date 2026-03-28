@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "This year's major announcements included a new version of Bitcoin called BCH, which has already seen some changes to its blockchain. This time around it will be similar to Ethereum and BitFury in many respects: It'll allow for much faster transactions",
+  "device": "gpu",
+  "inference_time_seconds": 10.07,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T15:53:26Z"
+}

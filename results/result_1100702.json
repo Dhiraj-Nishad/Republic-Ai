@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The present state of knowledge about this topic has been largely ignored. The main reason for that lack was due to its obscurity, with most people still unaware what it actually does or how and why we do things like code analysis (the actual meaning behind",
+  "device": "gpu",
+  "inference_time_seconds": 12.44,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:23:14Z"
+}

@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "What are our options for creating a new world order and how do we proceed from there?\"\n- Dr. Arup, \"I'm not sure what you're talking about.\"\n- Professor John Mappelbaum, \"Is it time to",
+  "device": "gpu",
+  "inference_time_seconds": 10.05,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:35:15Z"
+}

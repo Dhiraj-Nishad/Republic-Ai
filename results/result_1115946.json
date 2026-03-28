@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The most important thing to understand about blockchain technology, however, are its implications for humanity. The basic idea behind Blockchain and decentralization lies in a set system where people have control over what they buy or sell on their own computers; rather than using",
+  "device": "gpu",
+  "inference_time_seconds": 10.32,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:44:08Z"
+}

@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "It's about to get real, and in a couple years we'll be able make it work for us. In fact, there are already some applications that you can use with this technology: Bitcoin transactions on your mobile phone; Blockchain-based smart",
+  "device": "gpu",
+  "inference_time_seconds": 10.03,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T12:52:39Z"
+}

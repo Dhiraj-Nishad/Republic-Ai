@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The current consensus in academia and industry centers on a number, but there are two main questions that need to be answered. The first question remains unanswered: how can we build an effective distributed system for autonomous systems using smart contracts or by combining different types",
+  "device": "gpu",
+  "inference_time_seconds": 10.29,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T15:53:15Z"
+}

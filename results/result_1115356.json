@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The current state of research on this topic, and its possible applications in our daily lives, are currently under review. It's unclear when we'll see full release notes or even a roadmap for how it will work out as such; however, there",
+  "device": "gpu",
+  "inference_time_seconds": 10.38,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:36:26Z"
+}

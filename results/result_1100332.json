@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "It's not easy to predict what will happen, but it does seem likely that a lot of people are going to start using blockchain technology. For those who don't know about this subject or aren\u00b4t familiar with Bitcoin itself, we have some",
+  "device": "gpu",
+  "inference_time_seconds": 10.77,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:18:17Z"
+}

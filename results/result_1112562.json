@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "Will we ever be able to control all our own data without it being distributed and controlled by governments, corporations and individuals?\"\nThe answer was a resounding \"yes.\" The most popular form of centralized computing in general has been called cloud-based services",
+  "device": "gpu",
+  "inference_time_seconds": 10.32,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:01:08Z"
+}

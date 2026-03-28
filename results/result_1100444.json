@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The world's first artificial intelligence, developed in 1998 by Google.\nThe \"Internet\" was born on September 11th 2001 with a single hacker known as Anonymous who hacked into computers and networks around America for over 100 days before being released to be used",
+  "device": "gpu",
+  "inference_time_seconds": 10.78,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:19:42Z"
+}

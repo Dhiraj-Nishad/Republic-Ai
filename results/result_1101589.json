@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "I think that what's important to us today isn't just how it will be distributed, but also about its potential. We need a system where we can control our own destiny as an autonomous machine and make decisions based on those choices rather than some",
+  "device": "gpu",
+  "inference_time_seconds": 10.2,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:35:09Z"
+}

@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The world's most popular computer science toolkit, OpenAI provides a set framework to build robust systems that can be used for more than one purpose. For example, it allows you to easily create distributed applications on your own hardware and work with them",
+  "device": "gpu",
+  "inference_time_seconds": 10.06,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:15:31Z"
+}

@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "In an open letter to The New York Times, IBM's chief scientist said that he and his company are currently working on a software update for their product called Autonomous Driving. In addition to improving its driving experience, it will also allow people with",
+  "device": "gpu",
+  "inference_time_seconds": 10.26,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:33:41Z"
+}

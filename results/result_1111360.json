@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The world's most popular social network, Twitter has been building its own version of what it calls \"the Internet\" for some time now. While Facebook and Google have already introduced similar services in their apps \u2014 which are free to use without any restrictions",
+  "device": "gpu",
+  "inference_time_seconds": 10.28,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T15:45:55Z"
+}

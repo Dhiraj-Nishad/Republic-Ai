@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The problem with distributed ledger technology like Bitcoin and Ethereum was that it became more complex. The problems were solved by a combination between different tools, but each had their own flaws: some software could only run on one computer at any given time; other",
+  "device": "gpu",
+  "inference_time_seconds": 10.06,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:28:53Z"
+}

@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "How will it be used in your business and how can you make sure its use continues to grow at a high level, with users being rewarded for their hard work on projects like Swarm or Fintech.\nThis article was originally published by TechRepublic",
+  "device": "gpu",
+  "inference_time_seconds": 10.31,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T12:42:39Z"
+}

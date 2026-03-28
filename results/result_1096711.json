@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "If you want to see how decentralised computing could revolutionise medicine and society, look no further than this talk by Dr. Michael Pachter (author of The Future: How We Can Transform Our Lives). He explores what it means for health",
+  "device": "gpu",
+  "inference_time_seconds": 10.42,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T12:32:16Z"
+}

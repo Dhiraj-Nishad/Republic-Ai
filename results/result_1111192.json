@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "I believe that we will be able to solve this problem by developing a distributed ledger with no central authority. The blockchain technology can, in theory, allow us to transfer data between different nodes (the one where all transactions are made) without needing any",
+  "device": "gpu",
+  "inference_time_seconds": 9.91,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T15:43:19Z"
+}

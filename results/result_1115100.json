@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "For many years, there has been a lot talk about how to make autonomous systems more efficient. It's not that simple \u2013 but it does require some serious work! We can do this with our own machine learning algorithms and hardware as well as by",
+  "device": "gpu",
+  "inference_time_seconds": 10.66,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:33:00Z"
+}

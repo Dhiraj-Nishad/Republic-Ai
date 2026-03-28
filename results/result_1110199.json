@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "I don't know. I'm not sure it will happen right away, but there are lots more questions that need to be answered before we can even get started with this kind and technology-wise. The question now becomes: Will blockchain technologies help",
+  "device": "gpu",
+  "inference_time_seconds": 10.48,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T15:28:56Z"
+}

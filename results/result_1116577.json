@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The answer, I think, lies in more than just how we can build smart machines. The question isn't what will happen to our existing infrastructure as a whole (that's an area that might be better covered elsewhere), but rather whether or not",
+  "device": "gpu",
+  "inference_time_seconds": 10.92,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:52:12Z"
+}

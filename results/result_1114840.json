@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "A. \"As we all know, this technology will be a great boon to business and government in many areas.\" B (see post) A/B Testing for software development: see C++ & Rust Programming Patterns; also http://www2",
+  "device": "gpu",
+  "inference_time_seconds": 10.19,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:29:13Z"
+}

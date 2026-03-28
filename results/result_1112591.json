@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The current state of affairs in India and China has led to a significant shift towards digitalization. A key problem that needs addressing are those who believe there should be no one-size fits all solutions for achieving autonomous self-driving vehicles (AI).",
+  "device": "gpu",
+  "inference_time_seconds": 10.21,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:01:29Z"
+}

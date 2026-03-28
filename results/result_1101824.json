@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The next big thing to come out in 2017 will be what we call \"dumb money.\" This means that any new blockchain technology can either create a system or simply replace it with another. In this case, smart contracts are now much more powerful",
+  "device": "gpu",
+  "inference_time_seconds": 10.5,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:38:18Z"
+}

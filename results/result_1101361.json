@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "In my book The Future Of Artificial Intelligence, I discuss how these technologies are evolving from \"unregulated\" to more distributed systems. In this post, we'll look at some fundamental concepts that have been discussed by people and companies around the world over",
+  "device": "gpu",
+  "inference_time_seconds": 10.49,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:31:59Z"
+}

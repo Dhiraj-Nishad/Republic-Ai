@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The first step in this direction lies with an open source project called SmartAI. This was built on top and implemented as a software package for smart contracts, but also used by many other projects to build upon it's own blockchain technology that can be",
+  "device": "gpu",
+  "inference_time_seconds": 10.72,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:17:46Z"
+}

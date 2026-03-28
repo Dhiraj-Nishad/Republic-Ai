@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "What are you hoping to see in this year's roadmap for autonomous, self-driving cars and how will it work together with other tools like drones that can be used as a \"thing\" (and even robots) inside our homes.\nA little",
+  "device": "gpu",
+  "inference_time_seconds": 10.35,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:49:16Z"
+}

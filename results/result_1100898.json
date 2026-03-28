@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The Future Of Artificial Intelligence: A Brief Overview. This presentation presents a brief overview of how our technology will change and adapt to meet this changing environment, from data-driven systems like artificial intelligence or machine learning (AI), to social networks that can",
+  "device": "gpu",
+  "inference_time_seconds": 12.08,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:25:51Z"
+}

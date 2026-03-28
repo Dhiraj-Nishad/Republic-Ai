@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The next step in that journey will be to identify what kind and how best we can do it. As I mentioned earlier, there are many great places for a lot of things like this out here on Earth\u2014for example, our own computer-",
+  "device": "gpu",
+  "inference_time_seconds": 10.12,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:11:45Z"
+}

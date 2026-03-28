@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The main question that arises from this debate can be answered by examining what has changed over time. What are some key differences between these two approaches and how will they change in practice? The first issue, which was discussed above, concerns whether or not",
+  "device": "gpu",
+  "inference_time_seconds": 10.01,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T12:52:07Z"
+}

@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "In 2014, I was asked by an audience member about what his vision for a smart city would look like. He replied that he wanted to build something where people could interact and communicate with each other in real time without having any central authority over their",
+  "device": "gpu",
+  "inference_time_seconds": 9.65,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:05:37Z"
+}

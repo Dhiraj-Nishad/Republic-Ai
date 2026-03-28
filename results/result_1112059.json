@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The main reason why I am excited about this technology, and how it will be used in many different ways. The first step was to decide if we should start developing an open source project with a specific goal for which one would need hardware or software",
+  "device": "gpu",
+  "inference_time_seconds": 10.79,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T15:54:59Z"
+}

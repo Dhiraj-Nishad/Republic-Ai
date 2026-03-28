@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "How does it work, and what are its implications for our world?\"\n\"I have no idea,\" said Hwang. \"But I'm going to take a look at how things could change.\" The company has already launched an ICO campaign that aims",
+  "device": "gpu",
+  "inference_time_seconds": 9.84,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T15:47:15Z"
+}
