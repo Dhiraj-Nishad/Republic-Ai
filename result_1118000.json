@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The main focus now in this area will be to develop a system that can understand and manipulate its environment. That way, it could solve many problems by itself or with other systems without any external inputs from outside sources such as human beings who are involved",
+  "device": "gpu",
+  "inference_time_seconds": 10.47,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T17:11:28Z"
+}
