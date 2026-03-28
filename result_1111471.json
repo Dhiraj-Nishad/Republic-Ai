@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "I am excited to announce that I have made a contribution towards this project. This brings us closer to an exciting time in computing history when you can buy smart contracts and your computer will be able to do all sorts, from analyzing data for other purposes",
+  "device": "gpu",
+  "inference_time_seconds": 10.69,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T15:47:28Z"
+}

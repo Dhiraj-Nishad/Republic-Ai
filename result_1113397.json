@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The question isn't whether or not we will be able to create a new artificial intelligence. Rather, it's how that technology might evolve over time and provide opportunities for other intelligent systems in general to do things more effectively without having their own separate set",
+  "device": "gpu",
+  "inference_time_seconds": 10.56,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:11:16Z"
+}

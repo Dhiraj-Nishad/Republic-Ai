@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The next phase in this evolution will be to make it possible for people and businesses to integrate blockchain into their daily lives. There are many benefits, but there's a lot more that can come out from such an innovation than just decentralization alone would",
+  "device": "gpu",
+  "inference_time_seconds": 10.03,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T15:46:44Z"
+}

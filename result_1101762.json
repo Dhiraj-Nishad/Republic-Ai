@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The blockchain has been around for some time now, and I don't think anyone should be surprised that it will come into existence soon. It's called smart contracts on Ethereum (a highly popular platform by which to mine cryptocurrencies). But there are a",
+  "device": "gpu",
+  "inference_time_seconds": 9.75,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:37:25Z"
+}

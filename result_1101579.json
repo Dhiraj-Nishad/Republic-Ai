@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "It's always been possible to build an autonomous machine that could perform anything, whether it was a simple task like translating text into speech or building artificial intelligence. But now there are so many tools and platforms available in this space with which we can interact",
+  "device": "gpu",
+  "inference_time_seconds": 9.82,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:34:58Z"
+}

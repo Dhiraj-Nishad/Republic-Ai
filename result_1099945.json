@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "A good question to ask yourself: if you are a robot, what technology will your company use in order to create an intelligent machine that can do things like pick up objects and move them around for processing time or even solve problems with data. What",
+  "device": "gpu",
+  "inference_time_seconds": 9.82,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:13:21Z"
+}

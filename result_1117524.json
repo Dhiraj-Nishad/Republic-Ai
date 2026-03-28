@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "I've heard a lot about it from people, and I'm going to try to answer that question. First off, there are so many big things at play here: how do we create an autonomous machine learning system or what will happen with this",
+  "device": "gpu",
+  "inference_time_seconds": 10.91,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T17:05:13Z"
+}

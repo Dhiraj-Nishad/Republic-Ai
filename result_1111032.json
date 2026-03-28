@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "A: I think it's going to be very exciting. In fact, as we get closer to our next major project - Bitcoin Core 2.0 and its associated code-base changes (including some minor enhancements) in a few months' time",
+  "device": "gpu",
+  "inference_time_seconds": 10.25,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T15:41:17Z"
+}

@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The technology that will enable it to build, maintain and even evolve itself can be found in a number such as Google's DeepMind.\nThe fact that so many people are working on this topic (including my own) makes me very curious about what",
+  "device": "gpu",
+  "inference_time_seconds": 10.81,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:50:50Z"
+}

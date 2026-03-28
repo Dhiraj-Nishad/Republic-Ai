@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The current state of research on this subject (in particular, in our paper), has been very promising. The most recent version was published by PNAS back to 2013 and it showed that there were significant improvements over previous versions when compared with existing systems",
+  "device": "gpu",
+  "inference_time_seconds": 10.06,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:11:05Z"
+}

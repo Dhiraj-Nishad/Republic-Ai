@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "It's not clear. The technology that makes it possible to create, manage and control autonomous systems may eventually make a comeback in real time via blockchain technologies or distributed ledger (DLT). It could also be used by other organizations such as healthcare providers",
+  "device": "gpu",
+  "inference_time_seconds": 10.28,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:21:52Z"
+}

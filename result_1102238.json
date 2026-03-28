@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The current situation in China and other developed countries are very interesting. We should be looking at a similar scenario if we want to see how much better artificial intelligence can do than humans, because that would change everything about our lives! It's not just",
+  "device": "gpu",
+  "inference_time_seconds": 9.74,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:43:43Z"
+}

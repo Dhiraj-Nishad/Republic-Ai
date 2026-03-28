@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The current model uses a distributed ledger that's run on an open-source platform. This allows for real time data mining and decentralization with no centralized authority at all, which in turn makes it more secure than traditional central banks like UBS or",
+  "device": "gpu",
+  "inference_time_seconds": 9.89,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T15:49:00Z"
+}

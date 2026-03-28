@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "In this talk, I'll explain how to develop a scalable solution for making smart contracts in 3D. This will be followed by my next post on blockchain and distributed ledgers that are part of our vision as well as some great talks about other",
+  "device": "gpu",
+  "inference_time_seconds": 11.49,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:28:50Z"
+}

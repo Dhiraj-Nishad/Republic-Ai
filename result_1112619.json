@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "It has been a long time coming, but with Ethereum being developed and built on top of it (and using similar blockchain technology), there are many possibilities. We will see how these ideas evolve over time; we hope that this process brings out some",
+  "device": "gpu",
+  "inference_time_seconds": 10.43,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:01:49Z"
+}

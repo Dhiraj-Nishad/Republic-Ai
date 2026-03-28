@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The main point to take from this post was that it seemed like an interesting question. The idea behind blockchain-based systems, which are essentially distributed computing power (which I have described before), has been around for a long time and can be used",
+  "device": "gpu",
+  "inference_time_seconds": 10.14,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:11:04Z"
+}

@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "I think it's going to be a lot better than what we're seeing with some really smart startups. The idea that you can't have an anonymous system or something like, say, Twitter where they actually know who your friends are and just show",
+  "device": "gpu",
+  "inference_time_seconds": 9.89,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:41:17Z"
+}

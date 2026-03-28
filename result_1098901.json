@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The blockchain and software ecosystem has become increasingly complex, evolving from a single entity to many multiple entities. Many people are now aware of this challenge because they have developed their own technology that makes them able run autonomous systems on an open platform where only one",
+  "device": "gpu",
+  "inference_time_seconds": 10.64,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:00:11Z"
+}

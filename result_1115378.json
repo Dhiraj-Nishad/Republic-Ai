@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "This post will focus on a few key questions that we've been asking ourselves. First, how do you build an intelligent machine with high-level knowledge and control over its environment in order to maximize profit (or even as much revenue)? The second",
+  "device": "gpu",
+  "inference_time_seconds": 10.06,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:36:46Z"
+}

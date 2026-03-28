@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The big question at this point seems to be: what will happen when a distributed computing platform becomes ubiquitous. The main problem with all these theories (and I'm sure most others) isn't that they are completely wrong, but rather that their predictions",
+  "device": "gpu",
+  "inference_time_seconds": 10.73,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:07:55Z"
+}

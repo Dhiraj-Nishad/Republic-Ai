@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The idea behind it was that we should be able to do things with a single computer and our software would have all sorts, from simple tasks like sorting data into categories or creating lists. But what does this mean for you if your company has an",
+  "device": "gpu",
+  "inference_time_seconds": 10.32,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:05:25Z"
+}

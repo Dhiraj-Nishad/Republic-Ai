@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "As an open source developer, I have a lot to say about what's possible with this technology. This blog post will focus on three important topics: One, how can we make it easier for people and companies alike to build better autonomous systems;",
+  "device": "gpu",
+  "inference_time_seconds": 10.0,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:44:16Z"
+}

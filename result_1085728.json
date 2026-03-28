@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The recent release of \"AI for Everything\" by Google, a project that aims to build an open-source hardware and software platform enabling autonomous vehicles (AUVs) on public roads. The goal is to make it easier for governments to manage their",
+  "device": "gpu",
+  "inference_time_seconds": 4.15,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T09:59:17Z"
+}

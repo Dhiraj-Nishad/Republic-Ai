@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The next big question, and one that has not been answered for some time, was whether or what would be a better way to build an open source system. There are several factors which will affect how this can happen: 1) It's much",
+  "device": "gpu",
+  "inference_time_seconds": 11.22,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:15:29Z"
+}

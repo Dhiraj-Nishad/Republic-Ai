@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The next step in this research will be to understand how different aspects of our lives might change. We know that we are living with a massive increase in information demand, which has led to increased costs and increases in security vulnerabilities on mobile devices around the",
+  "device": "gpu",
+  "inference_time_seconds": 9.93,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T15:33:35Z"
+}

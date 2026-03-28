@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The current state of open source projects and their viability are not good news for any given project. The next best thing to do would be a big overhaul of existing algorithms, so that they could operate as truly autonomous systems in real time without needing anyone",
+  "device": "gpu",
+  "inference_time_seconds": 10.83,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:53:45Z"
+}

@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The present state of digital currency and blockchain technology has given rise to a number (and many) ideas. The new technologies are all based on cryptography, which means that any changes will be irreversible in real-time with no need for an outside party",
+  "device": "gpu",
+  "inference_time_seconds": 10.22,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:19:38Z"
+}

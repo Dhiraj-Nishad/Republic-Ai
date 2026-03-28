@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The first step to achieving it should be a shift in how we think about this technology. We are not interested in reinventing an existing world; rather, our goal needs to take advantage and make new approaches available that will help us design more efficient",
+  "device": "gpu",
+  "inference_time_seconds": 10.19,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:35:51Z"
+}

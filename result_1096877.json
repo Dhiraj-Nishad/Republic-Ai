@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The first step in achieving that goal was to develop a \"new kind\" where everyone could join, and there were no special rules or regulations. The process would take place on an autonomous robot called RoboCadence which had been programmed with real",
+  "device": "gpu",
+  "inference_time_seconds": 9.61,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T12:34:32Z"
+}

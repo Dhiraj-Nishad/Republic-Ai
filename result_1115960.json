@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The first step in our efforts to understand and overcome this problem will be through a collaborative effort with researchers from Google, IBM, Carnegie Mellon, MIT and others. The work we are doing can help us better identify ways that distributed systems could eventually make",
+  "device": "gpu",
+  "inference_time_seconds": 10.25,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T16:44:19Z"
+}

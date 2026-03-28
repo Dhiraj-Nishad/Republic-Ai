@@ -1,0 +1,29 @@
+{'repetition_penalty', 'do_sample', 'temperature', 'top_p', 'max_new_tokens'}) is deprecated and will be removed in future versions. Please pass either a `generation_config` object OR all generation parameters explicitly, but not both.
+Both `max_new_tokens` (=50) and `max_length`(=50) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+       Model loaded successfully!
+
+[4/4] Running inference...
+
+✓ Inference completed in 9.61s
+
+────────────────────────────────────────────────────────────
+RESPONSE:
+────────────────────────────────────────────────────────────
+How do you think it will evolve as a technology, and what does that mean for blockchain startups today?
+────────────────────────────────────────────────────────────
+
+============================================================
+FINAL RESULT (JSON):
+============================================================
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "How do you think it will evolve as a technology, and what does that mean for blockchain startups today?",
+  "device": "gpu",
+  "inference_time_seconds": 9.61,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T12:01:54Z"
+}

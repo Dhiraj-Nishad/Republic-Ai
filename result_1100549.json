@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "The next question will be: How much can you expect to pay for a blockchain that allows anyone with access to your information (or just an account) to use it without being forced by law or government into using any form other than what's available",
+  "device": "gpu",
+  "inference_time_seconds": 10.18,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T13:21:06Z"
+}

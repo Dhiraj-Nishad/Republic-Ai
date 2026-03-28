@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "model_id": "gpt2",
+  "prompt": "What is the future of decentralized AI?",
+  "response": "As a new technology comes into being, we need to understand its potential and then decide whether it should be developed. One way that could happen would be by making more open source software available for anyone who wants to use their computing power with minimal risk",
+  "device": "gpu",
+  "inference_time_seconds": 10.29,
+  "max_new_tokens": 50,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "timestamp": "2026-03-28T15:51:13Z"
+}
