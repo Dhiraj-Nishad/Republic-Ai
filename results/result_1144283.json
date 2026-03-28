@@ -1,0 +1,1 @@
+{"status": "success", "model_id": "gpt2", "prompt": "What is the future of decentralized AI?", "response": "What does it mean for society and why would I want to be involved in one.\nPosted by: Anonymous on May 10, 2017 at 12 AM", "device": "gpu", "inference_time_seconds": 9.75, "max_new_tokens": 50, "temperature": 0.7, "top_p": 0.9, "timestamp": "2026-03-28T19:19:16Z"}
