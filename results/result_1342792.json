@@ -1,0 +1,1 @@
+{"status": "success", "model_id": "gpt2", "prompt": "What is the future of decentralized AI?", "response": "In this post we'll look at how it's going to work in a way that will make people more productive, and ultimately save money.", "device": "gpu", "inference_time_seconds": 9.85, "max_new_tokens": 50, "temperature": 0.7, "top_p": 0.9, "timestamp": "2026-03-29T08:33:18Z"}
