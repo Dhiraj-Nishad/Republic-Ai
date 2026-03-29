@@ -1,0 +1,1 @@
+{"status": "success", "model_id": "gpt2", "prompt": "What is the future of decentralized AI?", "response": "I'm sure there are many questions. There's a lot that we've got to do and I can't wait for this one!", "device": "gpu", "inference_time_seconds": 9.48, "max_new_tokens": 50, "temperature": 0.7, "top_p": 0.9, "timestamp": "2026-03-29T07:45:56Z"}
