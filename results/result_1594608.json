@@ -1,0 +1,1 @@
+{"status": "success", "model_id": "gpt2", "prompt": "What is the future of decentralized AI?", "response": "This post was written by a participant who has never participated in any kind or other form.", "device": "gpu", "inference_time_seconds": 9.63, "max_new_tokens": 50, "temperature": 0.7, "top_p": 0.9, "timestamp": "2026-03-29T18:31:13Z"}
