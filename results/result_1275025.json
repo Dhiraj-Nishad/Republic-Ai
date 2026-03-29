@@ -1,0 +1,1 @@
+{"status": "success", "model_id": "gpt2", "prompt": "What is the future of decentralized AI?", "response": "It's going to be a huge challenge. If we don't have smart contracts, it won'a just happen.\"\n\n (Source)", "device": "gpu", "inference_time_seconds": 9.89, "max_new_tokens": 50, "temperature": 0.7, "top_p": 0.9, "timestamp": "2026-03-29T05:34:44Z"}
