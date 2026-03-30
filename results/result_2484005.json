@@ -1,0 +1,1 @@
+{"status": "error", "model_id": "gpt2", "prompt": "What is the future of decentralized AI?", "error": "The read operation timed out", "error_type": "ReadTimeout", "inference_time_seconds": 10.45, "timestamp": "2026-03-30T15:06:15Z", "device": "gpu"}
