@@ -1,0 +1,1 @@
+{"status": "success", "model_id": "gpt2", "prompt": "What is the future of decentralized AI?", "response": "What kind will it be used for and how can you make sure that this technology continues to work?\"\n..", "device": "gpu", "inference_time_seconds": 9.37, "max_new_tokens": 50, "temperature": 0.7, "top_p": 0.9, "timestamp": "2026-03-30T13:01:15Z"}
